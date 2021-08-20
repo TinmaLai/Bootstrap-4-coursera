@@ -1,0 +1,14 @@
+header{
+	background: rgb(121, 82, 180, 0.8);
+	color: white;	
+	padding: 40px;
+}
+footer{
+	background-color: rgb(121, 82, 180, 0.5);
+	color: black;	
+	padding: 40px;
+}
+a{
+	text-decoration: none;
+	font-weight: 500;
+}
